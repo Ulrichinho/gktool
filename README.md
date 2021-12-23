@@ -10,15 +10,11 @@ Cli tool to generate secure key
 
 Go ahead compile it yourself :
 
-```text
-go install github.com/Ulrichinho/gktool
-```
-
-Or if you work on macOS, linux, and even on windows in git bash :
-
 ```sh
-curl -sL "https://github.com/Ulrichinho/gktool/install.sh" | sh
+go install github.com/Ulrichinho/gktool@latest
 ```
+
+**_It's compatible with macOs, linux and Windows_**
 
 ## Usage
 
