@@ -19,6 +19,7 @@ else
 fi
 
 # Build gktool
+cd $GOPATH
 go build
 if test $? -eq 0
 then
